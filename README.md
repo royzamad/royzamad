@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @royzamad
-- 👀 I’m interested in Wordpress
-- 🌱 I’m currently learning Wordpress
-- 💞️ I’m looking to collaborate on wordpress
-- 📫 You can reach to me at raizamaad@gmail.com
+# Zamad Ul Hassan — React Developer & LLM Engineer
 
-<!---
-royzamad/royzamad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+5 years building React apps professionally, mostly in startup environments.
+Currently at a company where my work split between React/TypeScript product development
+and LLM engineering fine-tuning, instruction tuning, RLHF pipelines, and prompt engineering.
+
+**Frontend:** React.js · TypeScript · Redux · React Query · Next.js · Tailwind CSS · GraphQL  
+**AI/ML:** LLM Fine-tuning · Instruction Tuning · RLHF · Prompt Engineering · Python · Jupyter  
+**Tools:** Git · Figma · Postman · Firebase
+
+📍 Islamabad, Pakistan  
+📫 raizamaad@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/zamad-ul-hassan/)
